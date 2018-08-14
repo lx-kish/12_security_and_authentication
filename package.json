@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/lx-kish/12_security_and_authentication#readme",
   "dependencies": {
+    "bcrypt": "^1.0.3",
     "body-parser": "^1.18.3",
     "express": "^4.16.3",
     "mongoose": "^4.10.8"
